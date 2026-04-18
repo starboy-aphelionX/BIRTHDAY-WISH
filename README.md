@@ -126,7 +126,7 @@ Vercel is fast, free, and perfect for frontend projects.
 7. Your site is live 🎉  
 
 ### 🔗 Result:
-Your website will be available like: https://motar-birthday.vercel.app/
+Your website will be available like: https://birthday-wish-ten-wine.vercel.app/
 
 
 ✔ Fast performance  
