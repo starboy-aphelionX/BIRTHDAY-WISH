@@ -103,7 +103,7 @@ No external libraries – lightweight and self‑contained.
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/goribai-hub/MOTAR-BIRTHDAY.git
+   git clone https://github.com/starboy-aphelionX/BIRTHDAY-WISH.git
 
 ## 🌐 🚀 Hosting Guide (Vercel or Render)
 
