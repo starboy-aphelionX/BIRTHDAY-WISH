@@ -104,3 +104,54 @@ No external libraries – lightweight and self‑contained.
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/goribai-hub/MOTAR-BIRTHDAY.git
+
+## 🌐 🚀 Hosting Guide (Vercel or Render)
+
+You can easily deploy this birthday website using **Vercel** or **Render**.
+
+---
+
+## ⚡ Option 1: Vercel (Recommended 😎)
+
+Vercel is fast, free, and perfect for frontend projects.
+
+### 📌 Steps:
+
+1. Go to 👉 https://vercel.com  
+2. Sign up / Login with GitHub  
+3. Click **“New Project”**  
+4. Import your GitHub repository  
+5. Click **Deploy**  
+6. Wait a few seconds ⏳  
+7. Your site is live 🎉  
+
+### 🔗 Result:
+Your website will be available like: https://vercel.com
+
+
+✔ Fast performance  
+✔ Auto deploy on GitHub push  
+✔ Free SSL  
+✔ Professional hosting  
+
+---
+
+## 🌍 Option 2: Render
+
+Render is another free hosting platform for static websites.
+
+### 📌 Steps:
+
+1. Go to 👉 https://render.com  
+2. Sign up / Login with GitHub  
+3. Click **“New Web Service”** or **“Static Site”**  
+4. Connect your GitHub repository  
+5. Set:
+   - Build Command: *(leave empty for HTML project)*  
+   - Publish Directory: `/`  
+6. Click **Create Site**  
+7. Wait for deployment ⏳  
+8. Done 🎉
+
+### 🔗 Result:
+Your website will be live like: 
