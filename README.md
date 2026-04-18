@@ -103,4 +103,4 @@ No external libraries – lightweight and self‑contained.
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/birthday-fahim.git
+   git clone https://github.com/goribai-hub/MOTAR-BIRTHDAY.git
