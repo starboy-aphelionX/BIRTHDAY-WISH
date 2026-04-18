@@ -126,7 +126,7 @@ Vercel is fast, free, and perfect for frontend projects.
 7. Your site is live 🎉  
 
 ### 🔗 Result:
-Your website will be available like: https://vercel.com
+Your website will be available like: https://motar-birthday.vercel.app/
 
 
 ✔ Fast performance  
@@ -154,4 +154,4 @@ Render is another free hosting platform for static websites.
 8. Done 🎉
 
 ### 🔗 Result:
-Your website will be live like: 
+Your website will be live like: https://birthday-wish-jkri.onrender.com
